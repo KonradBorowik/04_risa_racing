@@ -4,7 +4,7 @@
   <name>04_risa_racing</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="miloszp@op.pl">milosz</maintainer>
+  <maintainer email="konrad1borowik@gmail.com">Konrad</maintainer>
   <license>TODO: License declaration</license>
 
   <test_depend>ament_copyright</test_depend>
